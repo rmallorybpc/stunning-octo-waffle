@@ -75,7 +75,7 @@ Using Copilot inside a Codespace shows just how easy it is to get up and running
  
 </details>
 
-<details id=2 open>
+<details id=2>
 <summary><h2>Step 2: Seeing AI code suggestions in a Javascript file!</h2></summary>
 
 _Nice work! :tada: You created a Codesapce and have Copilot installed!_
@@ -113,7 +113,7 @@ Copilot first commit
  
 </details>
 
-<details id=3>
+<details id=3 open>
 <summary><h2>Step 3: View the GitHub Copilot tab with multiple suggestions</h2></summary>
 
 _Nice work Seeing AI code suggestions in a Javascript file :sparkles:_
